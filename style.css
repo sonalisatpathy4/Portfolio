@@ -1,0 +1,321 @@
+body {
+    margin: 0;
+}
+
+.SS-container {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.SS-header {
+
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    justify-content: space-between;
+}
+
+
+
+
+.SS-main {
+
+    color: aliceblue;
+    background-color: #2d2d2d;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.SS-nav-bar {
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+    list-style-type: none;
+    font-family: 'Open Sans';
+    font-size: 12px;
+
+
+}
+
+.SS-name {
+
+    padding-top: 10px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.SS-H-section {
+    display: flex;
+    vertical-align: middle;
+    background-color: #000000;
+    align-items: center;
+    gap: 4%;
+
+
+
+}
+
+.SS-heading {
+    font-family: Inter;
+    background-color: #000000;
+
+}
+
+.SS-text-center {
+
+    margin: 0;
+    color: aliceblue;
+    font-size: 110px;
+    text-align: left;
+    width: 60%;
+}
+
+.SS-p-center {
+    color: aliceblue;
+    font-size: 15px;
+    width: 60%;
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: Open Sans;
+    margin: 0;
+}
+
+.SS-explore-button {
+    color: #000000;
+    font-family: Open Sans;
+    font-size: 12px;
+    background-color: aliceblue;
+    font-weight: bold;
+    padding: 20px;
+    border: none;
+
+}
+
+.SS-image {
+    width: 50%;
+}
+
+.SS-image img {
+    width: 100%;
+}
+
+.SS-nav-bar a {
+    color: aliceblue;
+}
+
+.SS-button {
+    display: flex;
+}
+
+.SS-icon {
+    font-size: 32px;
+    color: aliceblue;
+    padding-left: 35px;
+    padding-top: 10px;
+
+}
+
+.SS-play {
+    color: aliceblue;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.SS-main-intro {
+    display: flex;
+    background-color: #1f2020;
+
+}
+
+.SS-intro-container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.SS-intro-section {
+    width: 60%;
+
+}
+
+.SS-h2 {
+    color: aliceblue;
+    font-family: Inter;
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 7%;
+    padding-bottom: 20px;
+}
+
+.SS-paragraph {
+    color: aliceblue;
+    font-family: Open Sans;
+    font-size: 12px;
+    margin: 0px;
+    margin-right: 10%;
+}
+
+.SS-h3 {
+    color: aliceblue;
+    font-family: Open Sans;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+
+.SS-paragraph-2 {
+    color: aliceblue;
+    font-family: Open Sans;
+    font-size: 12px;
+    margin: 0;
+    margin-right: 15%;
+
+
+}
+
+.SS-h3-2 {
+    color: aliceblue;
+    font-family: Open Sans;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+
+.SS-paragraph-3 {
+    color: aliceblue;
+    font-family: Open Sans;
+    font-size: 12px;
+    margin: 0;
+    margin-right: 15%;
+}
+
+
+.SS-intro {
+    display: flex;
+    padding-bottom: 20%;
+}
+
+.SS-image-section {
+    width: 40%;
+
+}
+
+.SS-image-section img {
+    width: 100%;
+}
+
+.SS-about-containor {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.SS-main-image {
+    display: flex;
+}
+
+.SS-about-me-section {
+    background-color: black;
+}
+
+.SS-about-h1 {
+    color: aliceblue;
+    font-family: Inter;
+    margin: 0;
+    font-size: 60px;
+    width: 100%;
+    font-weight: bold;
+}
+
+.SS-vision {
+    color: aliceblue;
+    font-family: Open Sans;
+}
+
+.SS-mission {
+    color: aliceblue;
+    font-family: Open Sans;
+}
+
+.SS-about-me {
+    width: 150%;
+}
+
+.SS-about-h3 {
+    margin: 0;
+    font-size: 15px;
+}
+
+.SS-about-p {
+    margin: 0;
+    font-size: 12px;
+    padding-top: 10px;
+
+}
+
+.SS-about-h3-2 {
+    margin: 0;
+    font-size: 15px;
+}
+
+.SS-about-p-2 {
+    margin: 0;
+    font-size: 12px;
+    padding-top: 10px;
+
+
+
+}
+
+.SS-img-1 {
+    width: 33%;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.SS-img-1 img {
+    width: 100%;
+}
+
+.SS-img-2 {
+    width: 33%;
+    padding: 10px;
+    padding-top: 30px;
+
+}
+
+.SS-img-2 img {
+    width: 100%;
+}
+
+.SS-img-3 {
+    width: 33%;
+    padding: 10px;
+    padding-top: 30px;
+
+}
+
+.SS-img-3 img {
+    width: 100%;
+}
+
+.SS-aboutme {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.SS-vision{
+    width: 80%;
+    padding-right: 20px;
+}
+
+.SS-mission{
+    width: 80%;
+}
