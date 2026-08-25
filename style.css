@@ -229,7 +229,7 @@ body {
     color: aliceblue;
     font-family: Inter;
     margin: 0;
-    font-size: 60px;
+    font-size: 80px;
     width: 100%;
     font-weight: bold;
 }
@@ -245,30 +245,32 @@ body {
 }
 
 .SS-about-me {
-    width: 150%;
+    width: 100%;
 }
 
 .SS-about-h3 {
     margin: 0;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .SS-about-p {
     margin: 0;
-    font-size: 12px;
+    font-size: 15px;
     padding-top: 10px;
+    width: 80%;
 
 }
 
 .SS-about-h3-2 {
     margin: 0;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .SS-about-p-2 {
     margin: 0;
-    font-size: 12px;
+    font-size: 15px;
     padding-top: 10px;
+    width: 80%;
 
 
 
