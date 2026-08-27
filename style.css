@@ -313,11 +313,69 @@ body {
     padding-bottom: 10%;
 }
 
-.SS-vision{
+.SS-vision {
     width: 80%;
     padding-right: 20px;
 }
 
-.SS-mission{
+.SS-mission {
     width: 80%;
+}
+
+.SS-skill-section {
+    background-color: #2d2d2d;
+}
+
+.SS-skill-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.SS-skill-h1 {
+    align-items: center;
+    margin: 0;
+    text-align: center;
+    font-family: Inter;
+    color: aliceblue;
+    font-size: 50px;
+
+}
+
+.SS-skill-heading {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.SS-skill-img {
+   display: flex;
+   
+ 
+}
+
+.SS-skill-img img {
+    width: 80%;
+
+}
+
+.SS-skill-img-1 {
+    text-align: center;
+    box-shadow: 3px 5px 5px 5px #000000;
+    padding: 10px;
+}
+
+.SS-skill-h5 {
+    font-family: Open Sans;
+    margin: 0;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.SS-skill-img-2 {
+    text-align: center;
+    box-shadow: 3px 5px 5px 5px #000000;
+    padding: 10px;
+}
+
+.SS-skill-container-2{
+    width: 150px;
 }
