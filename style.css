@@ -323,7 +323,7 @@ body {
 }
 
 .SS-skill-section {
-    background-color: #2d2d2d;
+    background-color: #1f2020;
 }
 
 .SS-skill-container {
@@ -337,23 +337,24 @@ body {
     text-align: center;
     font-family: Inter;
     color: aliceblue;
-    font-size: 50px;
+    font-size: 70px;
 
 }
 
 .SS-skill-heading {
-    padding-top: 30px;
-    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .SS-skill-img {
-   display: flex;
-   
- 
+    display: flex;
+    gap: 7%;
+
+
 }
 
 .SS-skill-img img {
-    width: 80%;
+    width: 70%;
 
 }
 
@@ -376,6 +377,21 @@ body {
     padding: 10px;
 }
 
-.SS-skill-container-2{
+.SS-skill-container-2 {
     width: 150px;
+
 }
+
+.SS-skill-img-3 {
+    text-align: center;
+    box-shadow: 3px 5px 5px 5px #000000;
+    padding: 10px;
+}
+
+.SS-skill-img-4 {
+    text-align: center;
+    box-shadow: 3px 5px 5px 5px #000000;
+    padding: 10px;
+}
+
+
