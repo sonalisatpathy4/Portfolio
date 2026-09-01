@@ -361,20 +361,26 @@ body {
 .SS-skill-img-1 {
     text-align: center;
     box-shadow: 3px 5px 5px 5px #000000;
-    padding: 10px;
+    padding: 30px;
+    background-color: rgb(171, 164, 164);
+    border-radius: 30px;
+  
 }
 
 .SS-skill-h5 {
     font-family: Open Sans;
     margin: 0;
-    color: aliceblue;
+    color: #000000;
     font-size: 20px;
 }
 
 .SS-skill-img-2 {
     text-align: center;
     box-shadow: 3px 5px 5px 5px #000000;
-    padding: 10px;
+    padding: 30px;
+    background-color: rgb(171, 164, 164);
+    border-radius: 30px;
+
 }
 
 .SS-skill-container-2 {
@@ -385,13 +391,35 @@ body {
 .SS-skill-img-3 {
     text-align: center;
     box-shadow: 3px 5px 5px 5px #000000;
-    padding: 10px;
+    padding: 30px;
+    background-color: rgb(171, 164, 164);
+    border-radius: 30px;
+
 }
 
 .SS-skill-img-4 {
     text-align: center;
     box-shadow: 3px 5px 5px 5px #000000;
-    padding: 10px;
+    padding: 30px;
+    background-color: rgb(171, 164, 164);
+    border-radius: 30px;
+
 }
 
+.SS-skill-img-5 {
+    text-align: center;
+    box-shadow: 3px 5px 5px 5px #000000;
+    padding: 30px;
+    background-color: rgb(171, 164, 164);
+    border-radius: 30px;
 
+}
+
+.SS-skill-img-6 {
+    text-align: center;
+    box-shadow: 3px 5px 5px 5px #000000;
+    padding: 30px;
+    background-color: rgb(171, 164, 164);
+    border-radius: 30px;
+
+}
