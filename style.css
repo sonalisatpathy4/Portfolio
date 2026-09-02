@@ -337,18 +337,20 @@ body {
     text-align: center;
     font-family: Inter;
     color: aliceblue;
-    font-size: 70px;
+    font-size: 80px;
+    font-weight: bold;
 
 }
 
 .SS-skill-heading {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .SS-skill-img {
     display: flex;
-    gap: 7%;
+    gap: 8%;
+    padding-bottom: 10%;
 
 
 }
@@ -372,6 +374,8 @@ body {
     margin: 0;
     color: #000000;
     font-size: 20px;
+    width: 100px;
+    font-weight: bold;
 }
 
 .SS-skill-img-2 {
@@ -422,4 +426,24 @@ body {
     background-color: rgb(171, 164, 164);
     border-radius: 30px;
 
+}
+
+.SS-skill-p{
+    color: aliceblue;
+    font-family: Open Sans;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+    padding-top: 15px;
+   
+
+
+}
+
+.SS-skill-img-1:hover{
+    transform:
+    translateY(-25px);
 }
