@@ -366,7 +366,7 @@ body {
     padding: 30px;
     background-color: rgb(171, 164, 164);
     border-radius: 30px;
-  
+
 }
 
 .SS-skill-h5 {
@@ -389,6 +389,7 @@ body {
 
 .SS-skill-container-2 {
     width: 150px;
+
 
 }
 
@@ -428,7 +429,7 @@ body {
 
 }
 
-.SS-skill-p{
+.SS-skill-p {
     color: aliceblue;
     font-family: Open Sans;
     align-items: center;
@@ -438,12 +439,45 @@ body {
     margin: 0;
     padding: 10px;
     padding-top: 15px;
-   
+
 
 
 }
 
-.SS-skill-img-1:hover{
+.SS-skill-img-1:hover {
     transform:
-    translateY(-25px);
+        translateY(-15px);
+    transition: .5s;
+}
+
+.SS-myportfolio-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.SS-myportfolio {
+    background-color: #000000;
+}
+
+.SS-work-h1 {
+    margin: 0;
+    color: aliceblue;
+    font-family: Inter;
+    text-align: center;
+    font-size: 70px;
+}
+
+.SS-work-heading {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.SS-work-p {
+    margin: 0;
+    color: aliceblue;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 25px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
