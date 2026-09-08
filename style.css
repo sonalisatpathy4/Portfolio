@@ -11,9 +11,13 @@ body {
 .SS-header {
 
     display: flex;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     justify-content: space-between;
+}
+
+.SS-name-h3 {
+    margin: 0;
 }
 
 
@@ -33,7 +37,8 @@ body {
     gap: 90px;
     list-style-type: none;
     font-family: 'Open Sans';
-    font-size: 12px;
+    font-size: 15px;
+    font-weight: bold;
 
 
 }
@@ -41,6 +46,7 @@ body {
 .SS-name {
 
     padding-top: 10px;
+    padding-bottom: 10px;
     font-family: 'Open Sans';
     font-size: 20px;
     font-weight: bold;
@@ -364,8 +370,8 @@ body {
     text-align: center;
     box-shadow: 3px 5px 5px 5px #000000;
     padding: 30px;
-    background-color: rgb(171, 164, 164);
-    border-radius: 30px;
+    background-color: white;
+    border-radius: 20px;
 
 }
 
@@ -447,11 +453,11 @@ body {
 .SS-skill-img-1:hover {
     transform:
         translateY(-15px);
-    transition: .5s;
+    transition: .4s;
 }
 
 .SS-myportfolio-container {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -480,4 +486,109 @@ body {
     font-size: 25px;
     padding-bottom: 20px;
     padding-top: 20px;
+}
+
+
+.SS-skill-img {
+    display: flex;
+    gap: 8%;
+    padding-bottom: 10%;
+
+
+}
+
+.SS-shyamabackup img {
+    width: 97%;
+    border-radius: 5px;
+    margin-top: 10px;
+    border-style: outset;
+
+
+
+}
+
+
+
+.SS-shyamabackup {
+    align-items: center;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+    width: 50%;
+    padding: 2px;
+
+}
+
+.SS-shyamabackup-content h3 {
+    font-family: Open Sans;
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.SS-shyamabackup-content h4 {
+    font-family: Open Sans;
+    text-align: left;
+    margin: 0;
+    padding-bottom: 5px;
+
+}
+
+.SS-shyamabackup-content p {
+    font-family: Open Sans;
+    text-align: left;
+    margin: 0;
+    width: 90%;
+
+}
+
+.SS-shyamabackup-tech {
+    font-family: Open Sans;
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 20px 0;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    justify-content: space-around;
+
+}
+
+.SS-shyamabackup-tech span {
+    padding: 7px 12px;
+    border-radius: 8px;
+    background: #d2ccee;
+    color: #5146c7;
+    font-size: 13px;
+    font-weight: 600;
+
+}
+
+
+.SS-shyamabackup-content {
+    padding-left: 15px;
+}
+
+.SS-shyamabackup-button {
+    padding: 12px 18px;
+    background: #17233c;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.SS-shyamabackup-button:hover {
+    background: #5e43e6;
+}
+
+.SS-shyamabackup:hover {
+    transform: translateY(-15px);
+    transition: .4s;
 }
