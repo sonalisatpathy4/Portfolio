@@ -457,7 +457,7 @@ body {
 }
 
 .SS-myportfolio-container {
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -502,9 +502,12 @@ body {
     border-radius: 5px;
     margin-top: 10px;
     border-style: outset;
+}
 
-
-
+.SS-project-container{
+    display: flex;
+    gap: 15%;
+    padding-bottom: 50px;
 }
 
 
